@@ -14,7 +14,6 @@ Projeto desenvolvido durante o evento Next Level Week (NLW) da Rocketseat. Uma a
 - [Shadcn/ui](https://ui.shadcn.com/) - Sistema de componentes
 - [Lucide React](https://lucide.dev/) - Ícones
 - [Biome](https://biomejs.dev/) - Linter e Formatter
--
 
 ## 📋 Pré-requisitos
 
